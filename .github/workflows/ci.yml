@@ -25,6 +25,6 @@ permissions:
 
 jobs:
   ci:
-    uses: arthur-debert/release/.github/workflows/vscode-ext-ci.yml@canary/885778d544d5
+    uses: arthur-debert/release/.github/workflows/vscode-ext-ci.yml@canary/9dbbcf4dc664
     with:
       node-version: '22'
