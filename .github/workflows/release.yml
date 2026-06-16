@@ -27,7 +27,7 @@ permissions:
 
 jobs:
   release:
-    uses: arthur-debert/release/.github/workflows/vscode-ext.yml@canary/9dbbcf4dc664
+    uses: arthur-debert/release/.github/workflows/vscode-ext.yml@canary/624c7d387597
     with:
       version: ${{ inputs.version }}
       publish-marketplace: false
