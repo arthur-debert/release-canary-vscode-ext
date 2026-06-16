@@ -2,7 +2,7 @@
   "name": "canary",
   "displayName": "Canary",
   "description": "Synthetic VS Code extension exercised by release's pre-cut canary loop (arthur-debert/release#587). Do not depend on this.",
-  "version": "0.0.3-canary.20260614184200",
+  "version": "0.0.4-canary.20260616022338",
   "publisher": "arthur-debert",
   "license": "MIT",
   "repository": {
